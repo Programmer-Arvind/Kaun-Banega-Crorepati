@@ -1,0 +1,40 @@
+.splash-screen {
+  height: 100vh;
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.logo {
+  opacity: 0;
+  width: 300px;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.play-button {
+  opacity: 0;
+  transform: translateY(100px);
+}
+
+.play-button button {
+  padding: 15px 40px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+  background: #ffd700;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.play-button button:hover {
+  transform: scale(1.1);
+}

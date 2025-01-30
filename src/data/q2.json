@@ -1,0 +1,63 @@
+[
+    {
+      "question": "Which country recently approved the Artificial Intelligence Act, becoming the first to have a comprehensive AI law?",
+      "options": ["United States", "China", "European Union", "India"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does VPN stand for?",
+      "options": ["Virtual Process Network", "Virtual Private Network", "Virtual Public Network", "Virtual Protocol Network"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which neurotechnology company recently implanted the first computer chip in a human brain?",
+      "options": ["Kernel", "Neuralink", "Blackrock Neurotech", "Neurable"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What does RAG stand for in AI systems?",
+      "options": ["Retrieval-Advanced Guidance", "Retrieval-Augmented Generation", "Random Access Generation", "Recursive Algorithm Guidance"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What encryption protocol secures HTTPS connections today?",
+      "options": ["SSL", "TLS", "AES", "RSA"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which video game console, released in 2006, featured a motion-sensing controller?",
+      "options": ["Xbox 360", "PlayStation 3", "Nintendo Wii", "Nintendo DS"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following computer-related memes is associated with excessive RAM usage?",
+      "options": ["Blue Screen of Death (BSOD)", "\"RAM is just a suggestion\" (Chrome)", "\"404 Not Found\"", "\"Enhance!\" (CSI effect)"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which tech giant acquired the video game publisher Activision Blizzard in 2023?",
+      "options": ["Microsoft", "Sony", "Apple", "Google"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which was the first computer to use a stored program architecture?",
+      "options": ["ENIAC", "UNIVAC", "EDVAC", "IBM 701"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What protocol allows running IPv6 over an IPv4 network by encapsulating IPv6 packets inside IPv4?",
+      "options": ["6to4", "NAT64", "DNSSEC", "IPsec"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of the following is an example of a functional programming language?",
+      "options": ["Java", "C++", "Haskell", "PHP"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which AWS database service is best suited for real-time analytics on structured data?",
+      "options": ["Amazon RDS", "Amazon Redshift", "Amazon DynamoDB", "Amazon S3"],
+      "correctAnswer": 1
+    }
+  ]
+  

@@ -1,0 +1,22 @@
+node_modules/
+src/__tests__/__mocks__
+public/.DS_Store
+src/.DS_Store
+dist/
+
+# IDE and editor settings
+.vscode/
+.idea/
+.intelliJ/
+.settings/
+
+# Build and deployment artifacts
+build/
+coverage/
+yarn.lock
+package-lock.json
+
+# Editor temporary files
+*.swp
+*.suo
+*.ntvs*
