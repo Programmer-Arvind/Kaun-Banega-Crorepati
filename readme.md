@@ -7,9 +7,8 @@ You are most welcome to send PRs to this repository and make this project better
 ____
 This project was inspired by the following open source contributions:
 
-- https://github.com/adnanhakim/kaun-banega-crorepati
-
-- https://codesandbox.io/p/sandbox/kbc-quiz-app-forked-qfrpuz?file=%2Fsrc%2FApp.js (We could not find its github repo)
+https://github.com/adnanhakim/kaun-banega-crorepati
+https://codesandbox.io/p/sandbox/kbc-quiz-app-forked-qfrpuz?file=%2Fsrc%2FApp.js (We could'nt find its github repo)
 ___
 ## Build instructions
 ```
